@@ -18,7 +18,7 @@ This project was done as the part of Udacity capstone project.
 
 ## Project Motivation<a name="motivation"></a>
 
-This Project is part of [Udacity Data Scientis Nanodegree Programme.](#https://www.udacity.com/course/data-scientist-nanodegree--nd025)
+This Project is part of [Udacity Data Scientis Nanodegree Programme.](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
 1. What are the type of properties that are listing in?
 2. Neighborhood wise price distribution
