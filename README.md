@@ -10,16 +10,15 @@ This project was done as the part of Udacity capstone project.
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
-- python 3.7.7
-- scikit-learn 0.23.1
-- seaborn 0.10.1
-- matplotlib 3.3.1
-- numpy 1.18.5
-- pandas 1.1.0
+- python
+- numpy 
+- scikit- 2learn 
+- OpenCV
+- keras
 
 ## Project Motivation<a name="motivation"></a>
 
-This Project is based on Airbnb Seattle data provded by [kaggle.com](https://www.kaggle.com/airbnb/seattle). Using the data following business questions were answered:
+This Project is part of [Udacity Data Scientis Nanodegree Programme.](#https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
 1. What are the type of properties that are listing in?
 2. Neighborhood wise price distribution
