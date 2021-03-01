@@ -37,10 +37,9 @@ In this repository following files included:
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available @ [Medium](https://ksekara.medium.com/deep-dive-into-seattle-airbnb-data-f198143f6492).
+The main findings of the code can be found at the post available @ [Medium](https://ksekara.medium.com/the-dog-breed-classifier-5789419e3965).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Credit to Airbnb for providing the data. Licensing information can be found at the [Kaggle page](https://www.kaggle.com/airbnb/seattle) and the original source from [Airbnb Inside](http://insideairbnb.com/get-the-data.html).
-
+Credit to [Udacity](https://www.udacity.com/) Instructors for providing the guidance and data.
 
   
