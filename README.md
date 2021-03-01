@@ -28,13 +28,12 @@ This Project is part of [Udacity Data Scientis Nanodegree Programme.](https://ww
 
 ## File Descriptions <a name="files"></a>
 In this repository following files included:
-- examine_the_data.ipynb - above mentioned business questions wered answered using visualization
-- Data_modeling.ipynb - this notebook contains the machine learning model building and evaluation
-- Data Folder - this folder contains the all neccessary data and file use for the model
-  - calendar.csv - including listing id and the price and availability for that day
-  - listings.csv - including full descriptions and average review score
-  - reviews.csv - including unique id for each reviewer and detailed comments
-  - seattle.png - map of seattle area
+- dog_app.ipynb - jupyter notebook contains descriptive steps and codes 
+- extract_bottleneck_features.py - Contains python based functions to extarct bottleneck features from selected model
+- images Folder - this folder contains images used in jupyter notebook
+- myImages Folder - this folder contains images used for test the model
+
+ 
 
 ## Results<a name="results"></a>
 
