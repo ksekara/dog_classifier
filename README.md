@@ -18,7 +18,7 @@ This project was done as the part of Udacity capstone project.
 
 ## Project Motivation<a name="motivation"></a>
 
-This Project was carried out as the part of [Udacity Data Scientis Nanodegree Programme.](https://www.udacity.com/course/data-scientist-nanodegree--nd025), with following motivations:
+This Project was carried out as the part of [Udacity Data Scientist Nanodegree Programme.](https://www.udacity.com/course/data-scientist-nanodegree--nd025), with following motivations:
 
 1. What is the best method to build dog breed classifier ?
 2. Accuracy of the model when comes to identify dog breed ?
