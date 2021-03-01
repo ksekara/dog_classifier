@@ -12,7 +12,7 @@ This project was done as the part of Udacity capstone project.
 ## Installation <a name="installation"></a>
 - python
 - numpy 
-- scikit- 2learn 
+- scikit-learn 
 - OpenCV
 - keras
 
@@ -20,11 +20,11 @@ This project was done as the part of Udacity capstone project.
 
 This Project is part of [Udacity Data Scientis Nanodegree Programme.](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
 
-1. What are the type of properties that are listing in?
-2. Neighborhood wise price distribution
-3. How is the price correlated with other numerical independent variables ?
-4. How does the price vary with geographically ?
-5. Can I make a model that predict the price?
+1. What is the best method to build dog breed classifier ?
+2. Accuracy of the model when comes to identify dog breed ?
+3. If human is detected what dog breed his/her image resmble.
+4. Is use of transfer learning going to imporve the model ?
+5. What will be the test results of given images?
 
 ## File Descriptions <a name="files"></a>
 In this repository following files included:
